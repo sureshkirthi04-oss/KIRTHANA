@@ -9,3 +9,14 @@ Goal: Contribute to open source projects
 
 ### 2D Graphics Editor
 Developed a 2D Graphics Editor using C programming to perform basic graphics operations.
+
+
+## Collaboration Log
+
+**Partner Name:** PRASHANTHI M
+
+**GitHub Username:** cet2501930@reva.edu.in
+
+**What We Built:** We collaborated to create and test a greet() function using VS Code Live Share.
+
+**One Thing I Learned:** I learned how to collaborate in real time, share code changes, and credit contributors using Git co-authored commits.
