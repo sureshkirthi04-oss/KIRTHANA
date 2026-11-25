@@ -4,3 +4,8 @@ Hello! I am an engineering student pursuing B.Tech in Computer Science and Engin
 Learning Python
 Interested in Cybersecurity and Blockchain
 Goal: Contribute to open source projects
+
+## Projects
+
+### 2D Graphics Editor
+Developed a 2D Graphics Editor using C programming to perform basic graphics operations.
